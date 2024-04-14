@@ -1,0 +1,54 @@
+/* Reset default styles */
+body {
+    font-family: bell mt;
+    margin: 0;
+    padding: 0;
+    background-color: creamy;
+    color: #333;
+}
+
+/* Styling for the header */
+header {
+    background-color: black;
+    color: #fff;
+	font-size: 18px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Main content container */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Styling for sections */
+section {
+    margin-bottom: 20px;
+}
+
+/* Subheading style */
+h2 {
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/* Map container */
+#map {
+    height: 300px;
+    margin-top: 20px;
+}
+
+/* Footer style */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
